@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DrCaqui_WebApi.props" />
+</Project>
